@@ -1,0 +1,151 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsIm5hbWUiOiJZb3VuZXMiLCJpYXQiOjE1MTYyMzkwMjIsImV4cCI6IjE1MTYyMzkwMjIiLCJuYmYiOiIxNTE2MjM5MDIyIiwicm9sZXMiOlsiVVNFUiJdfQ.2tPnEZk7tUD1BX7upf41Kgf79TadWdhdrYreJJS30zk"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsIm5hbWUiOiJZb3VuZXMiLCJpYXQiOjE1MTYyMzkwMjIsImV4cCI6IjE1MTYyMzkwMjIiLCJuYmYiOiIxNTE2MjM5MDIyIiwicm9sZXMiOlsiVVNFUiJdfQ.D17TuxRmueUv0EU8Ngbi80h3tuGZANm8PTRRFuCoep8"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsIm5hbWUiOiJZb3VuZXMiLCJpYXQiOjE1MTYyMzkwMjIsImV4cCI6IjE1MTYyMzkwMjIiLCJuYmYiOiIxNTE2MjM5MDIyIiwicm9sZXMiOlsiVVNFUiIsIkFETUlOIl19.L_9BWMZsN1ijv7_lqHAcD3N70i-CBHUTKcuzohcEtoE"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": "5700",
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 3200,
+      "checked": false
+    },
+    {
+      "id": 3,
+      "name": "Smart Phone",
+      "price": 2000,
+      "checked": true
+    },
+    {
+      "id": 4,
+      "name": "Smart Phone",
+      "price": 1600,
+      "checked": true
+    },
+    {
+      "name": "Phone",
+      "price": "2000",
+      "checked": true,
+      "id": 5
+    },
+    {
+      "name": "Phone",
+      "price": "1500",
+      "checked": true,
+      "id": 6
+    },
+    {
+      "name": "PC",
+      "price": "1600",
+      "checked": true,
+      "id": 7
+    },
+    {
+      "name": "PC DELL",
+      "price": "1600",
+      "checked": true,
+      "id": 8
+    },
+    {
+      "name": "PC HP",
+      "price": "2000",
+      "checked": false,
+      "id": 9
+    },
+    {
+      "name": "Pc Portable",
+      "price": "5000",
+      "checked": true,
+      "id": 10
+    },
+    {
+      "name": "Iphone",
+      "price": "10000",
+      "checked": true,
+      "id": 11
+    },
+    {
+      "name": "Pc Protable HP",
+      "price": "5000",
+      "checked": false,
+      "id": 12
+    },
+    {
+      "name": "Pc Protable Dell",
+      "price": "5500",
+      "checked": true,
+      "id": 13
+    },
+    {
+      "name": "Printer Samsung",
+      "price": "7000",
+      "checked": true,
+      "id": 14
+    },
+    {
+      "name": "Printer Samsung",
+      "price": "7500",
+      "checked": true,
+      "id": 15
+    },
+    {
+      "name": "Smart Phone Samsung",
+      "price": "7500",
+      "checked": true,
+      "id": 16
+    },
+    {
+      "name": "Smart Phone Redmi",
+      "price": "6500",
+      "checked": false,
+      "id": 17
+    },
+    {
+      "name": "test",
+      "price": "600",
+      "checked": false,
+      "id": 18
+    },
+    {
+      "name": "test2",
+      "price": "6700",
+      "checked": false,
+      "id": 19
+    },
+    {
+      "name": "test3",
+      "price": "5000",
+      "checked": true,
+      "id": 20
+    }
+  ]
+}
